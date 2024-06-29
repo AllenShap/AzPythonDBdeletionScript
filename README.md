@@ -14,3 +14,5 @@ This picture showcases where values for the SQL queries are located within the a
 In order for the script to work the following Python libraries need to be installed:
  - azure.cosmos
  - azure.identity
+
+There are also comments inside the Python file going into a little more detail if the pictures are not enough.
